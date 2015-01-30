@@ -174,3 +174,5 @@ hor.scroll:LMB, reset:dbl.click,   timediv. via popup menu
 23.07.2014 changed library name for callextension commands, in fn_ASM.fsm, to lowercase (thx Killswitch, for hint)    
 29.08.2014 good news: **KillSwitch** has made a native linux library and server application for ASM °°    
 14.12.2014 current date added to log file name     
+30.01.2015 final update 1.35, watchdog thread holds slot, even when .fsm is inactiv   
+  
